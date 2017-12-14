@@ -1,0 +1,12 @@
+/RemoteSystemsTempFiles/
+/Servers/
+/.metadata/
+/.idea/
+/target/
+Tripster
+/.classpath
+/.project
+/.settings/
+*.DS_Store
+*.iml
+
